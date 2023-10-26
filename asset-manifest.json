@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web-challenge/static/css/main.4cbfa2c2.css",
+    "main.js": "/web-challenge/static/js/main.259c8129.js",
+    "static/js/787.d7b73175.chunk.js": "/web-challenge/static/js/787.d7b73175.chunk.js",
+    "index.html": "/web-challenge/index.html",
+    "main.4cbfa2c2.css.map": "/web-challenge/static/css/main.4cbfa2c2.css.map",
+    "main.259c8129.js.map": "/web-challenge/static/js/main.259c8129.js.map",
+    "787.d7b73175.chunk.js.map": "/web-challenge/static/js/787.d7b73175.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cbfa2c2.css",
+    "static/js/main.259c8129.js"
+  ]
+}
